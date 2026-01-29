@@ -1,0 +1,8 @@
+{
+  "name": "Seodo - Agriculture Farming Foundation",
+  "description": "A pixel-perfect recreation of the Seodo agriculture homepage template with smooth transitions, responsive layout, and full-featured UI components.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
