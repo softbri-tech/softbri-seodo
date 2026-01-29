@@ -1,10 +1,4 @@
-## Run Locally
 
-**Prerequisites:**  Node.js
+© 2026 Softbri Technology. All rights reserved.
+This code is proprietary and may not be used, copied, or distributed without permission.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
